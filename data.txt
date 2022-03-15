@@ -1,0 +1,7 @@
+7
+0
+<type 'list'>
+0
+<class 'werkzeug.datastructures.ImmutableMultiDict'>
+<type 'str'>
+{email_id:daniel.sikar@jci.com}
