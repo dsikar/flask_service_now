@@ -1,0 +1,9 @@
+Hello,
+
+OCTOPART ID: ${OCTOPART_ID}
+
+Parts search results for ${MFR_PART}.
+
+${SEARCH_RESULT}
+
+DO NOT REPLY. THIS EMAIL ACCOUNT IS NOT MONITORED. FOR ANY QUERIES EMAIL daniel.sikar@jci.com or abilash.nair@jci.com
